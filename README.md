@@ -1,8 +1,8 @@
 # NSBM Student Hub – DEA In-Class Activity
 
 ## 📘 Module
-**DEA (Database Engineering / Data Engineering Architecture)**  
-In-Class Practical Activity
+**DEA (Development of Enterprise Applications)**  
+Tutorial 04
 
 ## 🧑‍🎓 Student
 **Name:** Nethsara Vimukthi  
@@ -12,7 +12,7 @@ In-Class Practical Activity
 ---
 
 ## 📌 Project Overview
-This project is a **small in-class activity** conducted for the DEA module.  
+This project is a **tutorial in-class activity** conducted for the DEA module.  
 The objective of this activity is to demonstrate **basic backend configuration**, **database connectivity**, and **error identification** using a Spring Boot application with MySQL.
 
 The project focuses on:
